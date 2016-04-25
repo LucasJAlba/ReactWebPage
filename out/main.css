@@ -1,0 +1,47 @@
+.languageSelector {
+    float: right;
+    top: 0;
+    position: absolute;
+    right: 0px;
+    padding: 20px;
+}
+.title {
+    font-size: 60px;
+}
+.subtitle {
+	font-size: 20px;
+}
+.header {
+	padding-left: 20px;
+	white-space: noWrap;
+	border-radius: 11px 10px 0 0;
+}.leftBlock {
+	white-space : nowrap;
+	float : left;
+},
+.draggable {
+	position: absolute;
+	right : 0;
+	top : 0;
+    width : 30px;
+}
+.rightBlock {
+	position : absolute;
+	
+}
+.commonBlock {
+	padding-left : 11px;
+	background : #a00;
+	background : -webkit-gradient(linear, right top, right bottom, from(#a00), to(#600));
+	overflow : hidden;
+}
+.listStyle {
+	list-style: none;
+	padding : 0;
+}.navigationContainer  {
+	width: 250px;
+	position: relative;
+	overflow : hidden;
+	float: left;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJtYWluLmNzcyIsInNvdXJjZVJvb3QiOiIifQ==*/

@@ -1,0 +1,6 @@
+.navigationContainer  {
+	width: 250px;
+	position: relative;
+	overflow : hidden;
+	float: left;
+}

@@ -1,0 +1,20 @@
+.leftBlock {
+	white-space : nowrap;
+	float : left;
+},
+.draggable {
+	position: absolute;
+	right : 0;
+	top : 0;
+    width : 30px;
+}
+.rightBlock {
+	position : absolute;
+	
+}
+.commonBlock {
+	padding-left : 11px;
+	background : #a00;
+	background : -webkit-gradient(linear, right top, right bottom, from(#a00), to(#600));
+	overflow : hidden;
+}
